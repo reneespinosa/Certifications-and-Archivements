@@ -14,4 +14,4 @@ This repository contains a collection of my certificates and diplomas.
 - [4th Place](https://github.com/reneespinosa/Certifications-and-Archivements/files/15046425/2023-Caribbean.Finals-Rene.Espinosa.Arteaga-PLACE.pdf)
  ![Caribbean Finals 2023 4th Place](https://github.com/reneespinosa/Certifications-and-Archivements/assets/130246934/abd54f9c-a786-4b33-9772-e40591d0bc28)
 
-  In this competition, my outstanding performance as a member of the team that achieved fourth place in the ICPC 2022 Caribbean Finals, among 41 teams.
+  In this competition, my outstanding performance as a member of the team that achieved fourth place in the ICPC 2022 Caribbean Finals (Regional Contest), among 41 teams.
